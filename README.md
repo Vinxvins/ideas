@@ -1,34 +1,32 @@
-# ideas
+# Real Estate Dashboard (Demo)
 
-A repository for collecting, sharing, and exploring ideas.
+This repository contains sample CSV data and a static GitHub Pages demo for a Real Estate Advisor dashboard.
 
-## Overview
+What I added
 
-This repository serves as a place to brainstorm new concepts, document potential projects, and collaborate on creative solutions. Contributions are welcome!
+- data/
+  - properties.csv (30 dummy properties)
+  - deals.csv (12 dummy deals)
+  - parties.csv (buyers/sellers/agents)
+  - documents.csv
+  - payments.csv
+  - earnings_splits.csv
+- index.html — static dashboard that loads the CSVs client-side using PapaParse and shows KPIs, a map (Leaflet), and simple tables.
 
-## Getting Started
+How to view
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Vinxvins/ideas.git
-   ```
+1. GitHub Pages
+   - To publish the dashboard, enable GitHub Pages for this repository: go to Settings → Pages and select the `main` branch (root) as the source. After a minute the site will be available at:
+     `https://Vinxvins.github.io/ideas/`
 
-2. **Browse or add new ideas**
-   - Create a new file or open an issue to share your idea.
-   - Use the existing structure (if any) or propose your own.
+2. Local testing
+   - You can also open `index.html` locally, but some browsers block local Ajax requests. Run a simple local server instead:
+     - Python 3: `python -m http.server 8000` then open `http://localhost:8000/`
 
-## Contributing
+Next steps I can do for you
 
-- Fork this repository.
-- Create your feature branch (`git checkout -b feature/my-idea`).
-- Commit your changes (`git commit -m 'Add my new idea'`).
-- Push to the branch (`git push origin feature/my-idea`).
-- Open a pull request.
+- Improve the front-end (filters, charts, deal detail pane, document uploads).
+- Add sample seed data in JSON or SQL if you want to load into a database.
+- Wire up GitHub Actions to auto-publish Pages.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions, suggestions, or collaborations, open an issue or contact [Vinxvins](https://github.com/Vinxvins).
+If you want, I can enable GitHub Pages for you (requires repo settings permission) or walk you through enabling it.

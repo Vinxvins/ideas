@@ -1,0 +1,31 @@
+property_id,location,size_marla,type,features,asking_price,status,agent,geo_lat,geo_lng,created_at,updated_at
+P001,Sector 2,2,Plot,"Park facing;Corner",160000,Available,A001,31.5204,74.3587,2026-07-01,2026-08-20
+P002,Sector 3,3,House,"24m road;Park facing",270000,Available,A002,31.5210,74.3590,2026-06-15,2026-08-21
+P003,Sector 4,4,Plot,"Corner",360000,Available,A001,31.5220,74.3600,2026-05-10,2026-08-10
+P004,Sector 5,6,House,"24m road",540000,Available,A003,31.5230,74.3610,2026-04-01,2026-08-05
+P005,Sector 7,8,Plot,"Park facing",720000,Reserved,A002,31.5240,74.3620,2026-03-12,2026-08-01
+P006,Sector 8,10,House,"Corner;24m road",1000000,Available,A001,31.5250,74.3630,2026-02-20,2026-07-30
+P007,Sector 9,12,Plot,"Park facing",1440000,Under Negotiation,A003,31.5260,74.3640,2026-01-10,2026-07-25
+P008,Sector 13,14,House,"24m road",2100000,Available,A002,31.5270,74.3650,2026-01-05,2026-07-20
+P009,Sector 30,20,Plot,"Corner;Park facing",3000000,Available,A001,31.5280,74.3660,2026-06-01,2026-08-22
+P010,Jindal City,4,House,"Park facing",360000,Available,A003,31.5290,74.3670,2026-05-20,2026-08-18
+P011,Royal City,2,Plot,"24m road",160000,Available,A002,31.5300,74.3680,2026-04-30,2026-08-15
+P012,Elite City,3,House,"Corner",270000,Available,A001,31.5310,74.3690,2026-04-20,2026-08-10
+P013,Flower City,6,Plot,"Park facing",540000,Available,A002,31.5320,74.3700,2026-03-10,2026-08-05
+P014,Garden City,8,House,"24m road;Park facing",720000,Available,A003,31.5330,74.3710,2026-02-05,2026-07-30
+P015,Vardhman city,10,Plot,"Corner",1000000,Available,A001,31.5340,74.3720,2026-01-25,2026-07-20
+P016,Sector 2,12,House,"Park facing",1440000,Available,A002,31.5350,74.3730,2026-01-15,2026-07-18
+P017,Sector 3,14,Plot,"24m road",2100000,Available,A003,31.5360,74.3740,2026-01-10,2026-07-12
+P018,Sector 4,20,House,"Corner",3000000,Available,A001,31.5370,74.3750,2026-06-10,2026-08-23
+P019,Sector 5,2,Plot,"Park facing",160000,Available,A002,31.5380,74.3760,2026-05-11,2026-08-19
+P020,Sector 7,3,House,"24m road",270000,Available,A003,31.5390,74.3770,2026-04-01,2026-08-16
+P021,Jindal City,4,Plot,,360000,Available,A001,31.5400,74.3780,2026-03-02,2026-08-12
+P022,Royal City,6,House,"Corner;Park facing",540000,Reserved,A002,31.5410,74.3790,2026-02-20,2026-08-09
+P023,Elite City,8,Plot,"24m road",720000,Available,A003,31.5420,74.3800,2026-01-30,2026-07-28
+P024,Flower City,10,House,"Park facing;Corner",1000000,Under Negotiation,A001,31.5430,74.3810,2026-01-18,2026-07-15
+P025,Garden City,12,Plot,"24m road",1440000,Available,A002,31.5440,74.3820,2026-06-05,2026-08-24
+P026,Vardhman city,14,House,"Park facing",2100000,Available,A003,31.5450,74.3830,2026-05-25,2026-08-20
+P027,Sector 8,20,Plot,"Corner",3000000,Available,A001,31.5460,74.3840,2026-05-15,2026-08-14
+P028,Sector 9,2,House,"24m road",160000,Available,A002,31.5470,74.3850,2026-04-10,2026-08-11
+P029,Sector 13,3,Plot,"Park facing",270000,Available,A003,31.5480,74.3860,2026-03-05,2026-08-08
+P030,Sector 30,4,House,"Corner;24m road",360000,Available,A001,31.5490,74.3870,2026-02-28,2026-08-06

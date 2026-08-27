@@ -1,0 +1,13 @@
+document_id,deal_id,property_id,doc_type,uploaded_by,uploaded_at,status,file_url
+DOC001,D001,P007,BuyerKYC,B001,2026-06-15,valid,https://example.com/documents/doc001.pdf
+DOC002,D001,P007,SellerKYC,S001,2026-06-16,valid,https://example.com/documents/doc002.pdf
+DOC003,D002,P024,BuyerKYC,B002,2026-05-20,valid,https://example.com/documents/doc003.pdf
+DOC004,D002,P024,SellerKYC,S002,2026-05-21,valid,https://example.com/documents/doc004.pdf
+DOC005,D003,P009,TitleDeed,S003,2026-06-05,valid,https://example.com/documents/doc005.pdf
+DOC006,D004,P004,BuyerKYC,B004,2026-07-01,partial,
+DOC007,D005,P014,SellerKYC,S005,2026-06-06,missing,
+DOC008,D006,P022,BuyerKYC,B006,2026-05-10,valid,https://example.com/documents/doc008.pdf
+DOC009,D007,P002,RegistryDoc,S007,2026-04-01,valid,https://example.com/documents/doc009.pdf
+DOC010,D009,P001,TransferDoc,S009,2026-06-15,valid,https://example.com/documents/doc010.pdf
+DOC011,D012,P030,BuyerKYC,B012,2026-04-01,valid,https://example.com/documents/doc011.pdf
+DOC012,D012,P030,SellerKYC,S012,2026-04-02,valid,https://example.com/documents/doc012.pdf

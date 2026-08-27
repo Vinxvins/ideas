@@ -1,0 +1,13 @@
+split_id,deal_id,source,amount,percent,paid_flag,paid_date,notes
+SPL001,D001,seller,72000,50,true,2026-07-01,"Seller-side commission"
+SPL002,D001,buyer,48000,33.33,false,,"Buyer-side commission"
+SPL003,D001,other,20000,16.67,false,,"Other fees"
+SPL004,D002,seller,50000,50,true,2026-06-15,
+SPL005,D002,buyer,50000,50,false,,
+SPL006,D003,seller,150000,50,false,,
+SPL007,D003,buyer,100000,33.33,false,,
+SPL008,D003,other,50000,16.67,false,,
+SPL009,D007,seller,135000,50,true,2026-05-01,
+SPL010,D009,seller,80000,50,true,2026-05-10,
+SPL011,D012,buyer,54000,60,true,2026-05-01,
+SPL012,D012,seller,36000,40,false,,
